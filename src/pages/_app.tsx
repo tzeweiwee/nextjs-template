@@ -1,4 +1,4 @@
-import "@/common/styles/globals.scss";
+// import "@/common/styles/globals.scss";
 
 import { CoreLayout } from "@/common/components/CoreLayout";
 import { PageHead } from "@/common/components/PageHead";
